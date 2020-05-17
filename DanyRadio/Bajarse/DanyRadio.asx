@@ -1,0 +1,11 @@
+<asx version = "3.0">
+	<Title>Morales Stream</Title>
+	<Author>http://localhost/</Author>
+	<Copyright>2016 </Copyright>
+
+	<entry>
+		<ref href="http://95.154.254.81:29349/stream" />
+		<Title>Morales Stream</Title>
+		<Author>http://localhost/</Author>
+	</entry>
+</asx>

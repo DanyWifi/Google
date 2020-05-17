@@ -1,0 +1,358 @@
+BODY {	BACKGROUND-COLOR: #202125}
+body {cursor: url(alex.ani), default;} a {cursor: url(mano.cur), pointer;}
+.Estilo1 {	font-family: Verdana, Arial, Helvetica, sans-serif;	font-size: 13px; color: #FFFFFF;font-weight: bold;}
+.Estilo2 {	font-family: Verdana, Arial, Helvetica, sans-serif;	font-size: 14px;color: #FFFF00;font-weight: bold;}
+.Estilo3 {	font-family: Verdana, Arial, Helvetica, sans-serif;	font-size: 13px;color: #00FF00;	font-weight: bold;}
+.Estilo4 {	font-family: Verdana, Arial, Helvetica, sans-serif;	font-size: 13px;color: #FF0000;	font-weight: bold;}
+.Estilo5 {	font-family: Verdana, Arial, Helvetica, sans-serif;	font-size: 15px;color: #FFFF00;}
+.sf1 {FONT-SIZE: 10px; FONT-FAMILY: verdana, arial, helvetica, sans-serif}
+body,td,th {color: #FFFFFF;	font-family: Verdana, Arial, Helvetica, sans-serif;}
+a:link {color: #FF0000;}
+a:visited {	color: #FFFFFF;}
+a:hover {color: #FF0000;}
+#p_nav_primary li#nav_select a { color: #FF0000; }p {align=justify}
+.sf1 {FONT-SIZE: 10px; FONT-FAMILY: verdana, arial, helvetica, sans-serif}
+A:link {FONT-SIZE: 12px; COLOR: #FFFFFF; FONT-FAMILY: arial, helvetica, verdana, sans-serif; TEXT-DECORATION: none}
+A:visited {	FONT-SIZE: 12px; COLOR: #FFFFFF; FONT-FAMILY: arial, helvetica, verdana, sans-serif; TEXT-DECORATION: none}
+A:active {FONT-SIZE: 12px; COLOR: #FFFFFF; FONT-FAMILY: arial, helvetica, verdana, sans-serif; TEXT-DECORATION: none}
+A:hover {FONT-SIZE: 12px; COLOR: #FF0000; FONT-FAMILY: arial, helvetica, verdana, sans-serif; TEXT-DECORATION: none}
+BODY {FONT-SIZE: 12px; COLOR: #FFFFFF; FONT-FAMILY: arial, helvetica, verdana, sans-serif; BACKGROUND-COLOR: #202125; TEXT-DECORATION: none}
+P {FONT-SIZE: 12px; COLOR: #FFFFFF; LINE-HEIGHT: 1.4; FONT-FAMILY: arial, helvetica, verdana, sans-serif; TEXT-DECORATION: none}
+TABLE {	FONT-SIZE: 12px; COLOR: #FFFFFF; FONT-FAMILY: arial, helvetica, verdana, sans-serif; TEXT-DECORATION: none}
+TD.content {FONT-SIZE: 12px; COLOR: #FFFFFF; FONT-FAMILY: arial, helvetica, verdana, sans-serif; TEXT-DECORATION: none}
+TD.extra {BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #393a40 1px solid; BACKGROUND: #17171c; BORDER-LEFT: #393a40 1px solid; BORDER-BOTTOM: #000000 1px solid}
+TD.info1 {BORDER-RIGHT: #393a40 1px solid; BORDER-TOP: #000000 1px solid; BACKGROUND: #17171c; FONT: 11px Arial, Helvetica, sans-serif; BORDER-LEFT: #000000 1px solid; COLOR: #FF0000; BORDER-BOTTOM: #393a40 1px solid}
+TD.extras {BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #393a40 1px solid; BACKGROUND: #17171c; BORDER-LEFT: #393a40 1px solid; BORDER-BOTTOM: #000000 1px solid}
+HR {BORDER-TOP: #F2CC0C 1px solid; WIDTH: 100%; BORDER-BOTTOM: #000000 1px solid; HEIGHT: 2px}
+UL {LIST-STYLE-TYPE: square}
+.center {
+	TEXT-ALIGN: center
+}
+.justify {
+	TEXT-ALIGN: justify
+}
+.right {
+	TEXT-ALIGN: right
+}
+H1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #FF0000; FONT-FAMILY: arial, helvetica, verdana, sans-serif; LETTER-SPACING: 0px; TEXT-DECORATION: none
+}
+.heading {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #FF0000; FONT-FAMILY: Tahoma; LETTER-SPACING: 0px; TEXT-DECORATION: none
+}
+SELECT {
+	BORDER-RIGHT: #393a40 1px solid; BORDER-TOP: #000000 1px solid; FONT-SIZE: 12px; BACKGROUND: #17171c; BORDER-LEFT: #000000 1px solid; COLOR: #000000; BORDER-BOTTOM: #393a40 1px solid; FONT-FAMILY: arial, helvetica, verdana, sans-serif; TEXT-DECORATION: none
+}
+BODY {
+	SCROLLBAR-FACE-COLOR: #17171c; SCROLLBAR-HIGHLIGHT-COLOR: #35353f; SCROLLBAR-SHADOW-COLOR: #303030; SCROLLBAR-3DLIGHT-COLOR: #4d4e53; SCROLLBAR-ARROW-COLOR: #00ff00; SCROLLBAR-TRACK-COLOR: #3c3c42; SCROLLBAR-DARKSHADOW-COLOR: #000000
+}
+.bodyline {
+	BORDER-RIGHT: #393a40 1px solid; BORDER-TOP: #000000 1px solid; BACKGROUND: #17171c; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #393a40 1px solid
+}
+.tablein {
+	BORDER-RIGHT: #393a40 1px solid; BORDER-TOP: #000000 1px solid; BACKGROUND: #17171c; FONT: 11px Arial, Helvetica, sans-serif; BORDER-LEFT: #000000 1px solid; COLOR: #FF0000; BORDER-BOTTOM: #393a40 1px solid
+}
+.tableout {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #393a40 1px solid; BACKGROUND: #17171c; BORDER-LEFT: #393a40 1px solid; BORDER-BOTTOM: #000000 1px solid
+}
+.forumline {
+	BORDER-RIGHT: #393a40 1px solid; BORDER-TOP: #000000 1px solid; BACKGROUND: #17171c; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #393a40 1px solid
+}
+TD.row1 {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #393a40 1px solid; BACKGROUND: url(../../../themes/Nvision/images/row1.jpg); BORDER-LEFT: #393a40 1px solid; BORDER-BOTTOM: #000000 1px solid
+}
+TD.row2 {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #393a40 1px solid; BACKGROUND: url(../../../themes/Nvision/images/row1.jpg); BORDER-LEFT: #393a40 1px solid; BORDER-BOTTOM: #000000 1px solid
+}
+TD.row3 {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #393a40 1px solid; BACKGROUND: url(../../../themes/Nvision/images/row1.jpg); BORDER-LEFT: #393a40 1px solid; BORDER-BOTTOM: #000000 1px solid
+}
+TD.rowpic {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #393a40 1px solid; BACKGROUND: #17171c; BORDER-LEFT: #393a40 1px solid; BORDER-BOTTOM: #000000 1px solid
+}
+TH {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #393a40 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 11px; BACKGROUND: #17171c; BORDER-LEFT: #393a40 1px solid; COLOR: #FF0000; BORDER-BOTTOM: #000000 1px solid; HEIGHT: 20px
+}
+TD.cat {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #393a40 1px solid; BACKGROUND: #17171c; BORDER-LEFT: #393a40 1px solid; BORDER-BOTTOM: #000000 1px solid; HEIGHT: 28px
+}
+TD.catHead {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #393a40 1px solid; BACKGROUND: #17171c; BORDER-LEFT: #393a40 1px solid; BORDER-BOTTOM: #000000 1px solid; HEIGHT: 28px
+}
+TD.catSides {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #393a40 1px solid; BACKGROUND: #17171c; BORDER-LEFT: #393a40 1px solid; BORDER-BOTTOM: #000000 1px solid; HEIGHT: 28px
+}
+TD.catLeft {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #393a40 1px solid; BACKGROUND: #17171c; BORDER-LEFT: #393a40 1px solid; BORDER-BOTTOM: #000000 1px solid; HEIGHT: 28px
+}
+TD.catRight {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #393a40 1px solid; BACKGROUND: #17171c; BORDER-LEFT: #393a40 1px solid; BORDER-BOTTOM: #000000 1px solid; HEIGHT: 28px
+}
+TD.catBottom {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #393a40 1px solid; BACKGROUND: #17171c; BORDER-LEFT: #393a40 1px solid; BORDER-BOTTOM: #000000 1px solid; HEIGHT: 28px
+}
+TD.cat {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #393a40 1px solid; BACKGROUND: #17171c; BORDER-LEFT: #393a40 1px solid; BORDER-BOTTOM: #000000 1px solid; HEIGHT: 29px
+}
+TD.catHead {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #393a40 1px solid; BACKGROUND: #17171c; BORDER-LEFT: #393a40 1px solid; BORDER-BOTTOM: #000000 1px solid; HEIGHT: 29px
+}
+TD.catBottom {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #393a40 1px solid; BACKGROUND: #17171c; BORDER-LEFT: #393a40 1px solid; BORDER-BOTTOM: #000000 1px solid; HEIGHT: 29px
+}
+TH.thHead {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #393a40 1px solid; FONT-WEIGHT: bold; BACKGROUND: #17171c; BORDER-LEFT: #393a40 1px solid; BORDER-BOTTOM: #000000 1px solid; HEIGHT: 28px
+}
+TH.thSides {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #393a40 1px solid; FONT-WEIGHT: bold; BACKGROUND: #17171c; BORDER-LEFT: #393a40 1px solid; BORDER-BOTTOM: #000000 1px solid; HEIGHT: 28px
+}
+TH.thTop {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #393a40 1px solid; FONT-WEIGHT: bold; BACKGROUND: #17171c; BORDER-LEFT: #393a40 1px solid; BORDER-BOTTOM: #000000 1px solid; HEIGHT: 28px
+}
+TH.thLeft {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #393a40 1px solid; FONT-WEIGHT: bold; BACKGROUND: #17171c; BORDER-LEFT: #393a40 1px solid; BORDER-BOTTOM: #000000 1px solid; HEIGHT: 28px
+}
+TH.thRight {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #393a40 1px solid; FONT-WEIGHT: bold; BACKGROUND: #17171c; BORDER-LEFT: #393a40 1px solid; BORDER-BOTTOM: #000000 1px solid; HEIGHT: 28px
+}
+TH.thBottom {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #393a40 1px solid; FONT-WEIGHT: bold; BACKGROUND: #17171c; BORDER-LEFT: #393a40 1px solid; BORDER-BOTTOM: #000000 1px solid; HEIGHT: 28px
+}
+TH.thCornerL {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #393a40 1px solid; FONT-WEIGHT: bold; BACKGROUND: #17171c; BORDER-LEFT: #393a40 1px solid; BORDER-BOTTOM: #000000 1px solid; HEIGHT: 28px
+}
+TH.thCornerR {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #393a40 1px solid; FONT-WEIGHT: bold; BACKGROUND: #17171c; BORDER-LEFT: #393a40 1px solid; BORDER-BOTTOM: #000000 1px solid; HEIGHT: 28px
+}
+TD.row3Right {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #393a40 1px solid; BACKGROUND: #17171c; BORDER-LEFT: #393a40 1px solid; BORDER-BOTTOM: #000000 1px solid
+}
+TD.spaceRow {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #393a40 1px solid; BACKGROUND: #17171c; BORDER-LEFT: #393a40 1px solid; BORDER-BOTTOM: #000000 1px solid
+}
+TH.thHead {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #393a40 1px solid; FONT-SIZE: 12px; BACKGROUND: #17171c; BORDER-LEFT: #393a40 1px solid; BORDER-BOTTOM: #000000 1px solid
+}
+TD.catHead {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #393a40 1px solid; FONT-SIZE: 12px; BACKGROUND: #17171c; BORDER-LEFT: #393a40 1px solid; BORDER-BOTTOM: #000000 1px solid
+}
+TH.thSides {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #393a40 1px solid; BACKGROUND: #17171c; BORDER-LEFT: #393a40 1px solid; BORDER-BOTTOM: #000000 1px solid
+}
+TD.catSides {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #393a40 1px solid; BACKGROUND: #17171c; BORDER-LEFT: #393a40 1px solid; BORDER-BOTTOM: #000000 1px solid
+}
+TD.spaceRow {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #393a40 1px solid; BACKGROUND: #17171c; BORDER-LEFT: #393a40 1px solid; BORDER-BOTTOM: #000000 1px solid
+}
+TH.thRight {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #393a40 1px solid; BACKGROUND: #17171c; BORDER-LEFT: #393a40 1px solid; BORDER-BOTTOM: #000000 1px solid
+}
+TD.catRight {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #393a40 1px solid; BACKGROUND: #17171c; BORDER-LEFT: #393a40 1px solid; BORDER-BOTTOM: #000000 1px solid
+}
+TD.row3Right {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #393a40 1px solid; BACKGROUND: #17171c; BORDER-LEFT: #393a40 1px solid; BORDER-BOTTOM: #000000 1px solid
+}
+TH.thLeft {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #393a40 1px solid; BACKGROUND: #17171c; BORDER-LEFT: #393a40 1px solid; BORDER-BOTTOM: #000000 1px solid
+}
+TD.catLeft {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #393a40 1px solid; BACKGROUND: #17171c; BORDER-LEFT: #393a40 1px solid; BORDER-BOTTOM: #000000 1px solid
+}
+TH.thBottom {
+	BORDER-TOP: #393a40 1px solid; BACKGROUND: #17171c; BORDER-LEFT: #393a40 1px solid; BORDER-BOTTOM: #000000 1px solid
+}
+TD.catBottom {
+	BORDER-TOP: #393a40 1px solid; BACKGROUND: #17171c; BORDER-LEFT: #393a40 1px solid; BORDER-BOTTOM: #000000 1px solid
+}
+TH.thTop {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #393a40 1px solid; BACKGROUND: #17171c; BORDER-LEFT: #393a40 1px solid; BORDER-BOTTOM: #000000 1px solid
+}
+TH.thCornerL {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #393a40 1px solid; BACKGROUND: #17171c; BORDER-LEFT: #393a40 1px solid; BORDER-BOTTOM: #000000 1px solid
+}
+TH.thCornerR {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #393a40 1px solid; BACKGROUND: #17171c; BORDER-LEFT: #393a40 1px solid; BORDER-BOTTOM: #000000 1px solid
+}
+.maintitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 22px; COLOR: #FF0000; LINE-HEIGHT: 120%; FONT-FAMILY: "Arial",Verdana, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+H1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 22px; COLOR: #FF0000; LINE-HEIGHT: 120%; FONT-FAMILY: "Arial",Verdana, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+H2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 22px; COLOR: #FF0000; LINE-HEIGHT: 120%; FONT-FAMILY: "Arial",Verdana, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.gen {
+	FONT-SIZE: 12px
+}
+.genmed {
+	FONT-SIZE: 11px
+}
+.gensmall {
+	FONT-SIZE: 10px
+}
+.gen {
+	COLOR: #FF0000
+}
+.genmed {
+	COLOR: #FF0000
+}
+.gensmall {
+	COLOR: #FF0000
+}
+A.gen {
+	COLOR: #FF0000; TEXT-DECORATION: none
+}
+A.genmed {
+	COLOR: #FF0000; TEXT-DECORATION: none
+}
+A.gensmall {
+	COLOR: #FF0000; TEXT-DECORATION: none
+}
+A.gen:hover {
+	COLOR: #3d4743; TEXT-DECORATION: none
+}
+A.genmed:hover {
+	COLOR: #3d4743; TEXT-DECORATION: none
+}
+A.gensmall:hover {
+	COLOR: #3d4743; TEXT-DECORATION: none
+}
+.mainmenu {
+	FONT-SIZE: 11px; COLOR: #FF0000
+}
+A.mainmenu {
+	COLOR: #FF0000; TEXT-DECORATION: none
+}
+A.mainmenu:hover {
+	COLOR: #3d4743; TEXT-DECORATION: none
+}
+.cattitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #FF0000; LETTER-SPACING: 0px
+}
+A.cattitle {
+	COLOR: #FF0000; TEXT-DECORATION: none
+}
+A.cattitle:hover {
+	COLOR: #3d4743; TEXT-DECORATION: none
+}
+.forumlink {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #FF0000
+}
+A.forumlink {
+	COLOR: #FF0000; TEXT-DECORATION: none
+}
+A.forumlink:hover {
+	COLOR: #3d4743; TEXT-DECORATION: none
+}
+.nav {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #FF0000
+}
+A.nav {
+	COLOR: #FF0000; TEXT-DECORATION: none
+}
+A.nav:hover {
+	COLOR: #3d4743; TEXT-DECORATION: none
+}
+
+
+
+
+
+
+
+
+
+.topictitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #FF0000
+}
+A.topictitle:link {
+	COLOR: #FF0000; TEXT-DECORATION: none
+}
+A.topictitle:visited {
+	COLOR: #FF0000; TEXT-DECORATION: none
+}
+A.topictitle:hover {
+	COLOR: #3d4743; TEXT-DECORATION: none
+}
+.name {
+	FONT-SIZE: 11px; COLOR: #FF0000
+}
+.postdetails {
+	FONT-SIZE: 10px; COLOR: #FF0000
+}
+.postbody {
+	FONT-SIZE: 12px
+}
+A.postlink:link {
+	COLOR: #FF0000; TEXT-DECORATION: none
+}
+A.postlink:visited {
+	COLOR: #FF0000; TEXT-DECORATION: none
+}
+A.postlink:hover {
+	COLOR: #3d4743; TEXT-DECORATION: none
+}
+.navlink {
+	FONT-SIZE: 12px
+}
+A.navlink:link {
+	COLOR: #FF0000; TEXT-DECORATION: none
+}
+A.navlink:visited {
+	COLOR: #FF0000; TEXT-DECORATION: none
+}
+A.navlink:hover {
+	COLOR: #3d4743; TEXT-DECORATION: none
+}
+.code {
+	BORDER-RIGHT: #393a40 1px solid; BORDER-TOP: #000000 1px solid; FONT-SIZE: 12px; BACKGROUND: #17171c; BORDER-LEFT: #000000 1px solid; COLOR: #a3a4a8; BORDER-BOTTOM: #393a40 1px solid; FONT-FAMILY: Courier, 'Courier New', sans-serif
+}
+.quote {
+	BORDER-RIGHT: #393a40 1px solid; BORDER-TOP: #000000 1px solid; FONT-SIZE: 12px; BACKGROUND: #17171c; COLOR: #a3a4a8; BORDER-BOTTOM: #393a40 1px solid; FONT-FAMILY: Courier, 'Courier New', sans-serif
+}
+.copyright {
+	FONT-SIZE: 10px; COLOR: #FF0000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; LETTER-SPACING: 0px
+}
+A.copyright {
+	COLOR: #FF0000; TEXT-DECORATION: none
+}
+A.copyright:hover {
+	COLOR: #3d4743; TEXT-DECORATION: none
+}
+SELECT {
+	BACKGROUND-COLOR: #FFFFFF
+}
+.helpline {
+	BORDER-RIGHT: #393a40 1px solid; BORDER-TOP: #000000 1px solid; BACKGROUND: #17171c; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #393a40 1px solid
+}
+BODY {
+	FONT-SIZE: 12px
+}
+TBODY {
+	FONT-SIZE: 12px
+}
+TABLE {
+	FONT-SIZE: 12px
+}
+A {
+	FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+
+.t1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; FILTER: glow(color=#000000,strength=2), dropshadow(color=#000000,offx=1,offy=1); HEIGHT: 1px
+}
+.tema {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt
+}
+.tabla_titulo {
+	BACKGROUND: #303030
+}
+.tabla_subtitulo {
+	BACKGROUND: #404040
+}
+.tabla_mensaje {
+	BACKGROUND: #505050
+}
